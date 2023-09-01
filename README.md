@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PowerUserE](https://github.com/PowerUserE)
 
-- 💬 Ask me about **How to Traverse a Singly Linked List**
+- 💬 Ask me about **How to Change the Worldt**
 
 - 📫 How to reach me **Olumeyae@tcd.ie**
 
