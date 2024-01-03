@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Eniola</h1>
 <h3 align="center">A Student Studying Computer Science with a Minor in Business</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNxMTkyMGo2Y2FmN3V2dHJraTh4MDZidzE0b2k0bHAxaWJxN25rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNxMTkyMGo2Y2FmN3V2dHJraTh4MDZidzE0b2k0bHAxaWJxN25rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"> -->
 
 - 🔭 I’m currently working on **Building a Social Media Web Application**
 
